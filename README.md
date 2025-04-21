@@ -4,13 +4,13 @@ The CJMCU clones of the RubberDucky are no different when it comes to be used by
 
 Things you will need:
 
-1.ATMEGA32U4 Arduino Ducky By CJMCU with SD card support.
+1. ATMEGA32U4 Arduino Ducky By CJMCU with SD card support.
 
-2.Arduino IDE (https://www.arduino.cc/en/Main/Software)
+2. Arduino IDE (https://www.arduino.cc/en/Main/Software)
 
-3.An SD Card and a SD card reader
+3. An SD Card and a SD card reader
 
-4.No soldering needed
+4. No soldering needed
 
 ![cjmcu-virtual-keyboard-badusb-usb-ttf-memory-keyboard-atmega32u4-module jpg_640x640](https://user-images.githubusercontent.com/34340232/43675104-39aa9d88-97e7-11e8-884b-608997c0bbbb.jpg)
 
